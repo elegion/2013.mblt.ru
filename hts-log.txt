@@ -1,0 +1,33 @@
+HTTrack3.48-19+htsswf+htsjava launched on Mon, 22 Sep 2014 10:52:07 at 2013.mblt.ru/ru 2013.mblt.ru/en +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN100%I0p3BaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, ru*" 2013.mblt.ru/ru 2013.mblt.ru/en -O1 "D:\Docs\Desktop\httrack\mblt13\mblt13" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:55:07	Error: 	"Not Found" (404) at link 2013.mblt.ru/ru/subscriptions/hide (from 2013.mblt.ru/ru)
+10:55:09	Error: 	"Not Found" (404) at link mblt.ru/assets/layout/mblt13-d0265b6a413b4be922f0c41f310c0193.png (from 2013.mblt.ru/ru)
+10:55:09	Warning: 	Retry after error -4 (No data (connection closed)) at link 2013.mblt.ru/system/partner_logos/78/medium/slon.png?1367477722 (from 2013.mblt.ru/ru)
+10:55:13	Error: 	"Not Found" (404) at link 2013.mblt.ru/en/subscriptions/hide (from 2013.mblt.ru/en)
+10:55:13	Warning: 	Retry after error -4 (No data (connection closed)) at link 2013.mblt.ru/assets/bebasneuecyrillic-webfont.eot? (from 2013.mblt.ru/assets/application-9970ff11ea018036a2c8090aaff0c82d.css)
+10:55:13	Warning: 	Retry after error -4 (No data (connection closed)) at link 2013.mblt.ru/assets/bebasneuecyrillic-webfont.svg (from 2013.mblt.ru/assets/application-9970ff11ea018036a2c8090aaff0c82d.css)
+10:55:14	Warning: 	Moved Permanently for 2013.mblt.ru/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+10:55:14	Warning: 	File has moved from 2013.mblt.ru/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ to http://2013.mblt.ru/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+
+10:55:15	Warning: 	Found for 2013.mblt.ru/
+10:55:15	Warning: 	File has moved from 2013.mblt.ru/ to http://2013.mblt.ru/en
+10:55:15	Error: 	"Not Found" (404) at link 2013.mblt.ru/restserver.php (from connect.facebook.net/ru_RU/all.js)
+10:55:15	Warning: 	Moved Permanently for 2013.mblt.ru/dialog/
+10:55:15	Warning: 	File has moved from 2013.mblt.ru/dialog/ to http://2013.mblt.ru/dialog
+10:55:16	Warning: 	Moved Permanently for 2013.mblt.ru/en/
+10:55:16	Warning: 	File has moved from 2013.mblt.ru/en/ to http://2013.mblt.ru/en
+10:55:16	Error: 	"Not Found" (404) at link 2013.mblt.ru/get (from mc.yandex.ru/metrika/watch.js)
+10:55:16	Warning: 	Moved Permanently for 2013.mblt.ru/path=/
+10:55:16	Warning: 	File has moved from 2013.mblt.ru/path=/ to http://2013.mblt.ru/path=
+10:55:16	Error: 	"Not Found" (404) at link 2013.mblt.ru/POST (from mc.yandex.ru/metrika/watch.js)
+10:55:16	Error: 	"Not Found" (404) at link 2013.mblt.ru/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+ (from 2013.mblt.ru/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/)
+10:55:16	Error: 	"Error when decompressing" (-1) at link 2013.mblt.ru/dialog (from 2013.mblt.ru/dialog/)
+10:55:16	Error: 	"Error when decompressing" (-1) at link 2013.mblt.ru/path= (from 2013.mblt.ru/path=/)
+
+HTTrack Website Copier/3.48-19 mirror complete in 3 minutes 9 seconds : 183 links scanned, 165 files written (5820110 bytes overall) [5402982 bytes received at 28587 bytes/sec], 705923 bytes transferred using HTTP compression in 24 files, ratio 31%, 3.6 requests per connection
+(9 errors, 13 warnings, 0 messages)
